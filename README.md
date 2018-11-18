@@ -1,6 +1,6 @@
 # BinderTestR
 
-Para rodar o Rstudio são necessários 2 arquivos (runtime.txt e install.R) e um link no README.
+Para rodar o Rstudio são necessários 2 arquivos (`runtime.txt` e `install.R`) e um link no README.
 
 O arquivo `runtime.txt` é formatado da seguinte maneira:
 
